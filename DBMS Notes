@@ -1,0 +1,61 @@
+# Applications Of DBMS :
+
+Due to the evolution of Database management systems, companies are getting more from their work because they can keep records of everything. Also, it makes them faster to search information and records about any people or product that makes them more effective in work.
+
+Railway Reservation System:
+
+The database is required to keep record of ticket booking, train departure, and arrival status. Also if trains get late then people get to know it through database updates.
+
+Library Management System:
+
+There are thousands of books in the library so it is very difficult to keep record of all the books in a copy or register. So DBMS is used to maintain all the information related to book issuing dates, name of the book, author, and availability of the book.
+
+Banking:
+
+We make thousands of transactions through banks daily and we can do this without going to the bank. So how banking has become so easy that by sitting at home we can send or get money through banks. That is all possible just because of DBMS that manages all the bank transactions.
+
+Universities and colleges:
+
+Examinations are done online today and universities and colleges maintain all these records through DBMS. Student’s registrations details, results, courses, and grades all the information are stored in the database.
+
+Credit card transactions:
+
+For purchase of credit cards and all the other transactions are made possible only by DBMS. A credit cardholder knows the importance of their information that all are secured through DBMS.
+
+Social Media Sites:
+
+We all are on social media websites to share our views and connect with our friends. Daily millions of users signed up for these social media accounts like Facebook, Twitter, Pinterest, and Whatsapp. But how all the information of users is stored and how we become able to connect to other people, yes this is all because of DBMS.
+
+Telecommunications:
+
+Any telecommunication company cannot even think about its business without DBMS. DBMS is a must for these companies to store the call details and monthly post-paid bills.
+
+Finance:
+
+Those days have gone far when information related to money was stored in registers and files. Today the time has totally changed because there are lots of things to do with finance like storing sales, holding information and financial statement management, etc.
+
+Military:
+
+The military keeps records of millions of soldiers and it has millions of files that should be kept secured and safe. As DBMS provides a big security assurance to the military information so it is widely used in militaries. One can easily search for all the information about anyone within seconds with the help of DBMS.
+
+Online Shopping:
+
+Online shopping has become a big trend these days. No one wants to go to the shops and waste his time. Everyone wants to shop from home. So all these products are added and sold only with the help of DBMS. Purchase information, invoice bills, and payment, all of these are done with the help of DBMS.
+
+Human Resource Management:
+
+Big firms have many workers working under them. The human resource management department keeps records of each employee’s salary, tax, and work through DBMS.
+
+Manufacturing:
+
+Manufacturing companies make products and sell them on the daily basis. To keep records of all the details about the products like quantity, bills, purchase, supply chain management, DBMS is used.
+
+Airline Reservation system:
+
+Same as the railway reservation system, the airline also needs DBMS to keep records of flights arrival, departure, and delay status.
+
+Agriculture:
+
+DBMS can be used to maintain the record of crops, machinery, fertilizers, and livestock. One can keep each record of everything used in agriculture using DBMS.
+
+# Purpose Of Database  :
